@@ -1,9 +1,0 @@
-[build]
-  command = "npm run build"  # Команда для збірки проекту
-
-
-
-
-[[plugins]]
-  package = "netlify-plugin-name"
-
